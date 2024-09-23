@@ -1,0 +1,33 @@
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\Cart Api.csproj.AssemblyReference.cache
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\Cart Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\Cart Api.AssemblyInfoInputs.cache
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\Cart Api.AssemblyInfo.cs
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\Cart Api.csproj.CoreCompileInputs.cache
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\Cart Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\Cart Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\Cart Api.sourcelink.json
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\bin\Debug\net8.0\appsettings.json
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\bin\Debug\net8.0\Cart Api.exe
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\bin\Debug\net8.0\Cart Api.deps.json
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\bin\Debug\net8.0\Cart Api.runtimeconfig.json
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\bin\Debug\net8.0\Cart Api.dll
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\bin\Debug\net8.0\Cart Api.pdb
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\staticwebassets\msbuild.Cart Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Cart Api.props
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cart Api.props
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cart Api.props
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\scopedcss\bundle\Cart Api.styles.css
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\Cart Api.csproj.Up2Date
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\Cart Api.dll
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\refint\Cart Api.dll
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\Cart Api.pdb
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\Cart Api.genruntimeconfig.cache
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\Cart API\Cart Api\Cart Api\obj\Debug\net8.0\ref\Cart Api.dll
